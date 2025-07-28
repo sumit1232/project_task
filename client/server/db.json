@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "sumit",
+      "useremail": "sumitjadav2525@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": 2,
+      "username": "vikky",
+      "useremail": "vikky@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": 3,
+      "username": "Prshant",
+      "useremail": "prahsant@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": 4,
+      "username": "vikas",
+      "useremail": "vikas@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+    ,
+    {
+      "id": 5,
+      "username": "Nilay",
+      "useremail": "nilay@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}
